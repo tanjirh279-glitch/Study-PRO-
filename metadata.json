@@ -1,0 +1,8 @@
+{
+  "name": "Study Timer & Focus",
+  "description": "An immersive Pomodoro study timer with a daily target tracker, dynamic streak builder, custom motivational quotes, and soothing synthesized ambient audio to keep you productive.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
